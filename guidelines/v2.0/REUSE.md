@@ -11,6 +11,9 @@ The following types are reusable, as defined by the spec:
 * Responses
 * Operations (_Operations can only be remote references_)
 
+> Hello World!! 
+> [time=Tue, Feb 26, 2019 1:46 AM]
+
 ## Reuse strategy
 
 When authoring API design documents, common object definitions can be utilized to avoid duplication. For example, imagine multiple path definitions that each share a common path parameter, or a common response structure. The OpenAPI specification allows reuse of common object definitions through the use of "references".

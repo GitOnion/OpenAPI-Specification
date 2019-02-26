@@ -4,6 +4,9 @@ The OpenAPI Specification version 2.0 allows for custom properties to be added a
 API providers to extend the meta-data provided for their REST APIs as needed. Extension properties are always 
 prefixed by "x-" and can have any valid JSON format value. 
 
+> Hello world!!
+> This is cool.
+
 Currently extension properties are supported in the following definition objects:
   
 * within the [info object](/versions/2.0.md#info-object)

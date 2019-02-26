@@ -2,6 +2,11 @@
 
 This document intends to establish guidelines which build a transparent, open mechanism for deciding how to evolve the OpenAPI Specification. The Open API Technical Steering Committee (TSC) will initially follow these processes when merging changes from external contributors or from the TSC itself. This guideline document will be adjusted as practicality dictates.
 
+Hello world again!
+
+
+tomorrow I do that.
+
 ## OAI Specification Driving factors
 
 The OpenAPI Specification should be use-case driven.  We can specify support for hypothetical use cases as we see fit, but specifications should be backed by realistic scenarios.
