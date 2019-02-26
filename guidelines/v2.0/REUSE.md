@@ -11,7 +11,8 @@ The following types are reusable, as defined by the spec:
 * Responses
 * Operations (_Operations can only be remote references_)
 
-> Hello World!! [time=Mon, Feb 11, 2019 10:28 AM]
+> Hello World!! 
+> [time=Tue, Feb 26, 2019 1:46 AM]
 
 ## Reuse strategy
 
